@@ -1,7 +1,7 @@
 {
   "name": "e-hentai-ts",
   "version": "0.0.0-development",
-  "description": "A template for creating npm packages using TypeScript and VSCode",
+  "description": "A typescript wrapper for e-hentai.org",
   "main": "./lib/index.js",
   "files": [
     "lib/**/*"
